@@ -12,7 +12,9 @@ The system is based on the P300 paradigm and highlighting the elements on the ta
 
 Created system is an alternative to heavyweight systems such as BCI2000( www.bci2000.org ). It's 100% open source and free to use.
 
-.. image:: https://github.com/bernii/openBciP300/raw/master/screenshot.jpg
+.. image:: https://github.com/bernii/openBciP300/raw/master/workinFilter.jpg
+.. image:: https://github.com/bernii/openBciP300/raw/master/rSquare.jpg
+.. image:: https://github.com/bernii/openBciP300/raw/master/classificationWeightsBased.jpg
 
 About:
 ============
