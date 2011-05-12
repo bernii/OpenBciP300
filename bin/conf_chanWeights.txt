@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Configuration>
+	<element type="channelsWeights">
+		<type value="6"/>
+		<name value="Channels weights"/>
+		<value value="0"/>
+		<row>
+			<val>1</val>
+			<val>0</val>
+			<val>0</val>
+			<val>0</val>
+			<val>0</val>
+			<val>0</val>
+		</row>
+		<row>
+			<val>0</val>
+			<val>1</val>
+			<val>0</val>
+			<val>0</val>
+			<val>0</val>
+			<val>0</val>
+		</row>
+		<row>
+			<val>0</val>
+			<val>0</val>
+			<val>1</val>
+			<val>0</val>
+			<val>0</val>
+			<val>0</val>
+		</row>
+	</element>
+	
+</Configuration>

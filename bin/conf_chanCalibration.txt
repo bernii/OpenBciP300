@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Configuration>
+	<element type="channelsCalibration">
+		<type value="8"/>
+		<name value="Channels calibration"/>
+		<value value="0"/>
+		<chan>
+			<gain>1</gain>
+			<offset>0</offset>
+		</chan>
+		<chan>
+			<gain>1</gain>
+			<offset>0</offset>
+		</chan>
+
+	</element>
+	
+</Configuration>

@@ -1,0 +1,1 @@
+java -Xms256m -Xmx256m -Xbootclasspath/a:lib/swt.jar -jar jEEG.jar conf.xml
